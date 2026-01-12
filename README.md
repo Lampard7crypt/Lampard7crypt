@@ -20,7 +20,7 @@
 
 - 💼 I'm currently working on: **💻 Machine Learning and AI**
 - 🌱 I'm currently learning: **Scikit-Learn, Flask**
-- ⚡ Fun fact: **🚆 I am quite new to programming(One month in)**
+- ⚡ Fun fact: **🚆 I love playing chess during my free time**
 
  **<h3 align="left">Skills</h3>**
 
