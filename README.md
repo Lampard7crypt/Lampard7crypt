@@ -1,6 +1,7 @@
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Lampard7crypt&label=Profile%20views&color=0e75b6&style=flat)
+![Views](https://komarev.com/ghpvc/?username=Lampard7crypt)
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
