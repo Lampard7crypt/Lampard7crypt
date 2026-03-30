@@ -11,8 +11,6 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/Lampard7crypt" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a>
 
  **<h3 align="left">🚀 Passionate Python Programmer. Is Skilled in Python DSA, NumPy, Pandas, MatplotLib, Scikit-Learn(Data Science).</h3>**
 
