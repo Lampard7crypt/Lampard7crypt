@@ -1,0 +1,6 @@
+# ==============================================================================
+# Netlify Redirects & Rewrites
+# ==============================================================================
+
+# Automatically serve Netlify sitemap when /sitemap.xml is requested on Netlify
+/sitemap.xml    /sitemap-netlify.xml    200!

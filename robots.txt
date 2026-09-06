@@ -33,5 +33,7 @@ Allow: /
 User-agent: LinkedInBot
 Allow: /
 
-# XML Sitemap Location for Google Search Console & Bing Webmaster Tools
+# XML Sitemap Locations for Google Search Console & Bing Webmaster Tools
 Sitemap: https://lampardk.vercel.app/sitemap.xml
+Sitemap: https://lampard.netlify.app/sitemap.xml
+Sitemap: https://lampard.netlify.app/sitemap-netlify.xml
