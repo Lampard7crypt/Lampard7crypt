@@ -1,0 +1,17 @@
+{
+  "name": "Lampard Kipyegon - Machine Learning Engineer & Developer Kenya",
+  "short_name": "Lampard Kenya",
+  "description": "Portfolio of Lampard Kipyegon (Lampard), Machine Learning & Data Science Engineer and Software Developer in Nairobi, Kenya.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090a10",
+  "theme_color": "#090a10",
+  "icons": [
+    {
+      "src": "lampard.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
