@@ -46,6 +46,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   drawerBackdrop?.addEventListener('click', closeDrawer);
   mobileLinks.forEach(link => link.addEventListener('click', closeDrawer));
+  const mobileResumeBtn = document.querySelector('.btn-mobile-resume');
+  mobileResumeBtn?.addEventListener('click', closeDrawer);
 
   // 3. Typewriter Headline Animation
   const typewriterText = document.getElementById('typewriterText');
