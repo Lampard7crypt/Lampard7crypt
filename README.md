@@ -27,7 +27,7 @@
 class Lampard:
     name       = "Lampard Kipyegon"
     location   = "Nairobi, Kenya 🇰🇪"
-    education  = "BSc Computer Science — Year 1"
+    education  = "BSc Computer Science"
     focus      = ["Machine Learning", "Data Science", "Full-Stack Development"]
     currently  = "Building end-to-end ML pipelines with scikit-learn"
     learning   = ["scikit-learn", "Flask", "Deep Learning fundamentals"]
