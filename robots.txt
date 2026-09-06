@@ -1,6 +1,6 @@
 # ==============================================================================
 # Robots.txt for Lampard Kipyegon (Lampard Kenya Developer) Portfolio
-# Website: https://lampard7crypt.github.io/
+# Website: https://lampardk.vercel.app/
 # ==============================================================================
 
 User-agent: *
@@ -12,6 +12,7 @@ Allow: /
 
 User-agent: Googlebot-Image
 Allow: /lampard.jpeg
+Allow: /static/
 Allow: /
 
 User-agent: Bingbot
@@ -33,4 +34,4 @@ User-agent: LinkedInBot
 Allow: /
 
 # XML Sitemap Location for Google Search Console & Bing Webmaster Tools
-Sitemap: https://lampard7crypt.github.io/sitemap.xml
+Sitemap: https://lampardk.vercel.app/sitemap.xml
